@@ -18,5 +18,5 @@
 
 ###End
 
-![](https://github.com/Jasper1545/WebProject/blob/master/picture/end.png)
+![](https://github.com/Jasper1545/WebProject/blob/master/picture/end.jpg)
 
